@@ -22,3 +22,12 @@ git push -u origin main
 
 
 code .
+
+
+
+
+
+
+shift+crtl+b    > build
+f5              > run
+
